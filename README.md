@@ -45,7 +45,7 @@
 
 ######  b) DELETE statement
 
-##### Use Data Query Language (DQL) subset of SQL to select/ query records from a Table.
+##### Use Data Query Language (DQL) subset of SQL to SELECT/ QUERY records from a Table.
 
 ######  a) SELECT statement
 
