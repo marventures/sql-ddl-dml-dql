@@ -35,19 +35,19 @@
 
 - ##### Use Data Definition Language (DDL) subset of SQL to CREATE, ALTER OR DROP Database / Table.
 
-######  a) CREATE statement
+- ######  a) CREATE statement
 
-######  b) ALTER statement
+- ######  b) ALTER statement
 
 - ##### Use Data Manipulation Language (DML) subset of SQL to POPULATE (INSERT), UPDATE, DELETE records from a Table.
 
-######  a) UPDATE statement
+- ######  a) UPDATE statement
 
-######  b) DELETE statement
+- ######  b) DELETE statement
 
 - ##### Use Data Query Language (DQL) subset of SQL to SELECT/ QUERY records from a Table.
 
-######  a) SELECT statement
+- ######  a) SELECT statement
 
 - ##### Add Primary key to a relational database
 
